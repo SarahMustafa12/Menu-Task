@@ -1,0 +1,14 @@
+D:\EraaSoft Tasks\Menu-Task\bin\Debug\net8.0\Menu-Task.exe
+D:\EraaSoft Tasks\Menu-Task\bin\Debug\net8.0\Menu-Task.deps.json
+D:\EraaSoft Tasks\Menu-Task\bin\Debug\net8.0\Menu-Task.runtimeconfig.json
+D:\EraaSoft Tasks\Menu-Task\bin\Debug\net8.0\Menu-Task.dll
+D:\EraaSoft Tasks\Menu-Task\bin\Debug\net8.0\Menu-Task.pdb
+D:\EraaSoft Tasks\Menu-Task\obj\Debug\net8.0\Menu-Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\EraaSoft Tasks\Menu-Task\obj\Debug\net8.0\Menu-Task.AssemblyInfoInputs.cache
+D:\EraaSoft Tasks\Menu-Task\obj\Debug\net8.0\Menu-Task.AssemblyInfo.cs
+D:\EraaSoft Tasks\Menu-Task\obj\Debug\net8.0\Menu-Task.csproj.CoreCompileInputs.cache
+D:\EraaSoft Tasks\Menu-Task\obj\Debug\net8.0\Menu-Task.dll
+D:\EraaSoft Tasks\Menu-Task\obj\Debug\net8.0\refint\Menu-Task.dll
+D:\EraaSoft Tasks\Menu-Task\obj\Debug\net8.0\Menu-Task.pdb
+D:\EraaSoft Tasks\Menu-Task\obj\Debug\net8.0\Menu-Task.genruntimeconfig.cache
+D:\EraaSoft Tasks\Menu-Task\obj\Debug\net8.0\ref\Menu-Task.dll
